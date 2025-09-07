@@ -1,0 +1,2 @@
+# SwapSkills-Peer-to-Peer-Skill-Exchange-Platform-.
+SwapSkills is a platform where users can offer skills they know and request skills they want to learn. For example:  Person A teaches Java in exchange for learning Graphic Design.  Person B teaches Photography in exchange for Python.  The system matches people based on their skills offered and skills needed like a smart barter system for knowledge.
